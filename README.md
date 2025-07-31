@@ -56,9 +56,6 @@
 - **Development Team Lead** at CorTechSols (Jan 2024 – Sep 2024)
 - **React Developer** at NextPak Agile Solutions (Aug 2022 – Jan 2024)
 
-## :trophy: GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SohaibAhmad786&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ### :writing_hand: Random Dev Quote
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
